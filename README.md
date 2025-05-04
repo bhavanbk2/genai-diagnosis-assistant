@@ -58,7 +58,10 @@ The patient is likely experiencing acute coronary syndrome. Based on the clinica
 ```
 
 Acknowledgments
+
 Stanford CRFM - BioMedLM
+
 FAISS - Facebook AI Similarity Search
+
 LoRA - Low-Rank Adaptation
 
