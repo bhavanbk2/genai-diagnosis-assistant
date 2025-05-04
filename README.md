@@ -22,6 +22,7 @@ This repository contains an end-to-end **LLM-powered clinical diagnosis generati
 ├── biomedlm-diagnosis-finetuned/ # Fine-tuned adapter weights + tokenizer
 
 ├── hcup_faiss_index.idx # Semantic index of historical notes
+
 ├── hcup_id_mapping.pkl # Mapping index to note content
 
 ├── diagnosis_model.py # Loads model + inference function
