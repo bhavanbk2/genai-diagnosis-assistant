@@ -56,7 +56,3 @@ query = "Patient presents with shortness of breath, chest tightness, and was adm
 Suggested Diagnosis and Explanation:
 The patient is likely experiencing acute coronary syndrome. Based on the clinical history and ECG findings, the chest pain and shortness of breath suggest myocardial ischemia. Hospitalization was appropriate for further cardiac workup.
 
-Acknowledgments
-Stanford CRFM - BioMedLM
-FAISS - Facebook AI Similarity Search
-LoRA - Low-Rank Adaptation
