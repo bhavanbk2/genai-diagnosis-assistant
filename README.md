@@ -20,11 +20,16 @@ This repository contains an end-to-end **LLM-powered clinical diagnosis generati
 ## 📁 Directory Structure
 
 ├── biomedlm-diagnosis-finetuned/ # Fine-tuned adapter weights + tokenizer
+
 ├── hcup_faiss_index.idx # Semantic index of historical notes
 ├── hcup_id_mapping.pkl # Mapping index to note content
+
 ├── diagnosis_model.py # Loads model + inference function
+
 ├── utils.py # Prompt engineering, semantic search, cleaning
+
 ├── run_inference.py # CLI-style test script
+
 ├── requirements.txt # Dependencies
 
 
