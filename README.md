@@ -40,7 +40,7 @@ This repository contains an end-to-end **LLM-powered clinical diagnosis generati
 
 ### 1. Clone the repo
 
-```bash
+```
 git clone https://github.com/yourusername/clinical-diagnosis-assistant.git
 cd clinical-diagnosis-assistant
 
@@ -55,4 +55,10 @@ Sample query:
 query = "Patient presents with shortness of breath, chest tightness, and was admitted for 3 days under cardiology."
 Suggested Diagnosis and Explanation:
 The patient is likely experiencing acute coronary syndrome. Based on the clinical history and ECG findings, the chest pain and shortness of breath suggest myocardial ischemia. Hospitalization was appropriate for further cardiac workup.
+```
+
+Acknowledgments
+Stanford CRFM - BioMedLM
+FAISS - Facebook AI Similarity Search
+LoRA - Low-Rank Adaptation
 
